@@ -1,0 +1,3 @@
+C:/Users/-/Desktop/laba2/laba2sem2/build/CMakeFiles/sem2lab2.dir
+C:/Users/-/Desktop/laba2/laba2sem2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/-/Desktop/laba2/laba2sem2/build/CMakeFiles/ZERO_CHECK.dir
